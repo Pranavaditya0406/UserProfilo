@@ -5,6 +5,6 @@ import App from './App.jsx'
 import Proflie from './Proflie.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <Proflie />
+    <App />
   </StrictMode>,
 )

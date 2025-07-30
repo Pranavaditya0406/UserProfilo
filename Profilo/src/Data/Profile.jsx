@@ -3,29 +3,29 @@ const Proflie = {
         name: "SHASTRULA PRANAVADITYA",
         description: "I am a data analyst with expertise in machine learning. I have experience in extracting insights and building predictive models using various data analysis tools and machine learning frameworks. I thrive on tackling complex data challenges and continuously acquiring new skills. I am passionate about delivering high-quality, actionable insights that adhere to best practices and industry standards in data science",
         role: "ASPIRING DATA ANALYST",
-        photo: "../",
-        email: "pranavaditya85@gmail.com",
+        photo: "../Dp.jpg",
+        email: "bitrasrinivaspavan@gmail.com",
         tracking_id: "G-BNTTBGHXSC"
     },
     resume: {
-        link: "../Pavan_Kumar_Bitra_Resume.pdf" // Replace with your actual resume URL
+        link: "../Pavan_Kumar_Bitra_Resume.pdf"
       },
     
 
     socials: {
-        twitter: "https://x.com/srinivaspavan73",
-		github: "https://github.com/Pranavaditya0406/Project1/commit/e13f938564ed214bd2b9f643a076cbd46a16d2db#diff-eb3c4039ef7c4dca92a39f36b901bcbc13aa060f7770ca483b872b403129c6c9",
+        twitter: "",
+		github: "https://github.com/Pranavaditya0406",
 		linkedin: "https://www.linkedin.com/in/shastrula-pranavaditya-405191332/",
 		instagram: "",
 		facebook: "",
-        telegram: ""
+        telegram: "https://telegram.me/srinivaspavan73"
     },
     experience: [
         {
             company: "Innovarsity",
             role: "",
             description: "Designed and developed two responsive, dynamic websites using React.js and Bootstrap. Implemented interactive features and user-centric designs, leading to a 30% increase in user traffic and improved engagement. Enhanced site performance, achieving faster load times by 20% through optimized code and responsive design practices.",
-            period: "July 2024- Present"
+            period: "July 2028- Present"
         },
         {
             company: "GoPrac Private Limited",
@@ -58,13 +58,13 @@ const Proflie = {
             company: "EduSkills",
             role: "Data Analyst Inten",
             description: "Leveraged AWS technologies in a virtual data analytics internship, analyzing large datasets to drive insights and improve decision-making. Utilized machine learning models and AWS QuickSight for effective data visualization and reporting in collaborative projects.",
-            period: "May 2023 - July 2023"
+            period: "May 2025 - July 2025"
         },        
         {
             company: "YHills Edutech Private Limited",
             role: "Python Developer Intern",
             description: "As a Python Developer Intern, I developed Python modules for machine learning algorithms and aggregated unstructured data from various sources to lay the groundwork for a new product. Additionally, I gained hands-on experience with data manipulation and analysis using NumPy and Pandas.",
-            period: "October 2022 - December 2022"
+            period: "October 2025 - December 2025"
         },                
         // More experiences...
     ],
@@ -113,8 +113,8 @@ const Proflie = {
 			title: "WeaveQuest",
 			description: "A dedicated online platform celebrating the tradition of handloom sarees, connecting artisans and enthusiasts in a vibrant marketplace.",
 			technologies: "https://skillicons.dev/icons?i=react,firebase,0,0,0&perline=5&theme=",
-			github: "https://github.com/srinivaspavan73/Weaver-s-Loom",
-            link: "https://weavers-loom.netlify.app/"
+			github: "https://github.com/Pranavaditya0406",
+            link: "https://app.netlify.com/user/settings"
 		},
     ],
 
